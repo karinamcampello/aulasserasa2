@@ -7,7 +7,6 @@ public class PessoaFisica  extends PessoaHerança{
 	private String profissao;
 	
 	
-	
 	public PessoaFisica() {//gcfs (atalho do ctrl+3)
 		super();
 		
